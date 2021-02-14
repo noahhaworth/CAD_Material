@@ -1,0 +1,1 @@
+This folder contains the images (except the logo) included in the SolidWorks parts exam.
